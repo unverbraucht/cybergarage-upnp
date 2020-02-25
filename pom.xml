@@ -11,7 +11,7 @@
   <url>http://www.cybergarage.org/</url>
 
   <properties>
-    <cybergarage-upnp.version>2.1.2</cybergarage-upnp.version>
+    <cybergarage-upnp.version>2.1.3</cybergarage-upnp.version>
       <maven.compiler.target>9</maven.compiler.target>
       <maven.compiler.source>9</maven.compiler.source>
   </properties>
